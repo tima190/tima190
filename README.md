@@ -31,14 +31,6 @@ Hi! I'm **GrechkaGK**! I’m passionate about programming and drawing. At the mo
 
 ---
 
-## 🎨 Art Stuff
-
-- I do drawing as a hobby
-- Tools of choice: **Clip Studio Paint (CSP)** or **Krita**   
-- Sometimes I even design things entirely on paper before coding them!
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔢 [Calc](https://github.com/tima190/calc)
@@ -77,7 +69,7 @@ Hi! I'm **GrechkaGK**! I’m passionate about programming and drawing. At the mo
 
 ## 📫 Contact
 
-- 🌐 Website: [grechkagk.com](https://grechkagk.com) *(currently offline)*  
+- 🌐 Website: [grechkagk.com](https://grechkagk.com)
 - 💬 Telegram channel: [@grechka_GK_tg](https://t.me/grechka_GK_tg)
 
 ---
